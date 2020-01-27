@@ -1,0 +1,11 @@
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\bin\Debug\netcoreapp2.1\SinglyLinkedLists.deps.json
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\bin\Debug\netcoreapp2.1\SinglyLinkedLists.runtimeconfig.json
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\bin\Debug\netcoreapp2.1\SinglyLinkedLists.runtimeconfig.dev.json
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\bin\Debug\netcoreapp2.1\SinglyLinkedLists.dll
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\bin\Debug\netcoreapp2.1\SinglyLinkedLists.pdb
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\obj\Debug\netcoreapp2.1\SinglyLinkedLists.csprojAssemblyReference.cache
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\obj\Debug\netcoreapp2.1\SinglyLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\obj\Debug\netcoreapp2.1\SinglyLinkedLists.AssemblyInfoInputs.cache
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\obj\Debug\netcoreapp2.1\SinglyLinkedLists.AssemblyInfo.cs
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\obj\Debug\netcoreapp2.1\SinglyLinkedLists.dll
+C:\Users\stsherpa1639\Desktop\Coding Dojo\C#\C#\SinglyLinkedLists\obj\Debug\netcoreapp2.1\SinglyLinkedLists.pdb
